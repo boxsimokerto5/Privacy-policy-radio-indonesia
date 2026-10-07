@@ -1,0 +1,6 @@
+{
+  "name": "Kebijakan Privasi - Radio Indonesia (Suara Nusantara)",
+  "description": "Halaman resmi Kebijakan Privasi (Privacy Policy) dan Transparansi Keamanan Data untuk aplikasi Android Radio Indonesia - Suara Nusantara (com.radioindonesia.gecckocreator).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
